@@ -58,3 +58,8 @@ The main goal of this tool is to:
 ---
 
 
+### Now if you want to extract chrome password automatically using Raspbery pi 0 w 
+- For that, you need to download .exe file which is (https://github.com/Z3nithn/Chrome-Password-Extractor.git)
+- After that upload that .exe file in USB mass storage
+- After that upload the ChromePasswordExtractor.js in the http://172.16.0.1:8000/#/hid
+- After that create trigger.
